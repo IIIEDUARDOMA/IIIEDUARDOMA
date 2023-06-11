@@ -3,7 +3,7 @@
 I'm a front-end student on the Alura teaching platform. I'm currently studying react with typescript. I made some projects in HTML, CSS and JavaScript.
 I intend to join the career of front-end programmer and in the future fullstack.
 
-- 🇧🇷 I'm from **Brazil**
+- 🇧🇷   **From Brazil**
 - 👨🏾‍🎓 **Student front-end programmer**
 - 🏎️ passionate about **F1** and **karting**
 - 🖥️ **currently studying:**
